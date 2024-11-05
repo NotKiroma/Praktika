@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kirom\\.nuget\\packages\\": {}
+    "/home/notkiroma/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day2\\Day2.csproj",
+      "projectUniqueName": "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 2/Day2.csproj",
       "projectName": "Day2",
-      "projectPath": "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day2\\Day2.csproj",
-      "packagesPath": "C:\\Users\\kirom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day2\\obj\\",
+      "projectPath": "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 2/Day2.csproj",
+      "packagesPath": "/home/notkiroma/.nuget/packages/",
+      "outputPath": "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kirom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/notkiroma/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

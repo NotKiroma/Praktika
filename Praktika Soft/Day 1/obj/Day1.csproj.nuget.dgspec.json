@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 1/Day1.csproj": {}
+    "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day 1\\Day1.csproj": {}
   },
   "projects": {
-    "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 1/Day1.csproj": {
+    "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day 1\\Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 1/Day1.csproj",
+        "projectUniqueName": "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day 1\\Day1.csproj",
         "projectName": "Day1",
-        "projectPath": "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 1/Day1.csproj",
-        "packagesPath": "/home/notkiroma/.nuget/packages/",
-        "outputPath": "/home/notkiroma/Документы/GitHub/Praktika/Praktika Soft/Day 1/obj/",
+        "projectPath": "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day 1\\Day1.csproj",
+        "packagesPath": "C:\\Users\\kirom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kirom\\Documents\\GitHub\\Praktika\\Praktika Soft\\Day 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/notkiroma/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kirom\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
